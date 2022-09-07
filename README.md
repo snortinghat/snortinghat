@@ -4,7 +4,10 @@ The journey began in 2021 when I joined [DataQuest](dataquest.io) on the "Data s
 
 After graduating I found it interesting to dive deeper into data management - how data is collected, transformed and stored. I found a [course](https://karpov.courses/dataengineer) about data engineering made by the data professionals from top russian companies such as Yandex, Mail.ru, Sber. I started studiyng there in April, 2022. It was very intensive 5 months and I learned about the various types of databases, cloud technologies, big data, data modelling, ETL processes and became very excited about it.
 
-Now I assume I have a wide range of basic knowledge in the world of data and ready to apply it on the real world problems. You can see my data analytical and data engineering projests in their respective folders
+Now I assume I have a wide range of basic knowledge in the world of data and ready to apply it on the real world problems. You can see my data science and data engineering projests in their respective folders
+
+
+
 
 <!--
 **snortinghat/snortinghat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
